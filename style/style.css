@@ -92,6 +92,10 @@ footer a:hover {
     color: #59416A;
 }
 
+small {
+    color: #777;
+}
+
 /* Media queries */
 @media (max-width: 768px) {
     h1 {
